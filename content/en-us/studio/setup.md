@@ -5,7 +5,7 @@ description: Explains how to install Roblox Studio on your system.
 
 import StudioSystemReqs from '../includes/studio/system-reqs.md'
 
-Create immersive 3D experiences on Roblox with **Roblox Studio**, a free application available on Windows and Mac.
+Create immersive 3D experiences on Roblox with **Roblox Studio**, a free application available on Windows, Mac and chromebook.
 
 ## System requirements
 
